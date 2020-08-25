@@ -1,9 +1,13 @@
-# WireFrame feito pelo *Figma* #
+# Projeto com intuição a aprendizagem #
 
 ## Fotos do Projeto: ##
 
 ### HOME PAGE ###
-(./.md/img1.png)
+![IMG - Project](./.md/img1.png)
+
 
 ### FORM PAGE ###
-(./.md/img2.png)
+![IMG - Project](./.md/img2.png)
+
+
+#### WireFrame feito no *Figma* 
