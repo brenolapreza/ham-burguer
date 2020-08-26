@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 
 import Home from './pages/Home'
+import Pedido from './pages/Pedido'
 
 
 export default function Routes(){
@@ -13,6 +14,7 @@ export default function Routes(){
         <Router>
             <Switch>
                 <Route exact path="/" component={Home} />
+                <Route exact path="/pedido" component={Pedido} />
             </Switch>
         </Router>
     )

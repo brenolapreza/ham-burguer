@@ -11,7 +11,7 @@ export default function Home() {
             <SectionPrimary>
                 <ModuleText>
                     <Title><SubTitle>HAM?</SubTitle><br/>BURGER!</Title>
-                    <ButtonMain href="/" text="FAZER UM PEDIDO"/>
+                    <ButtonMain link={"/pedido"} text="FAZER UM PEDIDO"/>
                 </ModuleText>
             </SectionPrimary>
         </>

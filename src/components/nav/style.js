@@ -12,11 +12,21 @@ const Navbar = styled.div`
     display:flex;
     align-items:center;
     justify-content:space-between;
+
+    @media (max-width:786px){
+        img{
+            width:180px;
+        }
+        a{
+            font-size:20px;
+        }
+    }
     `
 const NavLink = styled.a`
     font-size:24px;
     color:#fff;
     text-decoration:none;
-    font-family: 'Archivo Black', sans-serif;
+    font-family:var(--font-default);
+    
 `
 export {Navbar, NavLink};
